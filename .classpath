@@ -32,5 +32,34 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bmunegow.ORADEV/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar" sourcepath="C:/Users/bmunegow.ORADEV/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.googlecode.json-simple"/>
+			<attribute name="maven.artifactId" value="json-simple"/>
+			<attribute name="maven.version" value="1.1.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bmunegow.ORADEV/.m2/repository/com/google/code/gson/gson/2.8.4/gson-2.8.4.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.google.code.gson"/>
+			<attribute name="maven.artifactId" value="gson"/>
+			<attribute name="maven.version" value="2.8.4"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/SeleniumWorkSpace/RI_AutomationProjects/selenium_automation/lib/RITesting-1.0-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="responsys.selenium.automation"/>
+			<attribute name="maven.artifactId" value="rsysseleniumautomation"/>
+			<attribute name="maven.version" value="1.0"/>
+			<attribute name="maven.scope" value="system"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/MyAutomationStuff/jars/javax.json-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyAutomationStuff/jars/javax.json-api-1.1.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
